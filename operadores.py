@@ -1,0 +1,27 @@
+a = True
+b = False
+c = True
+print(a and a)
+print(b and b)
+print(not c)
+print(not b)
+print(not a)
+print(a and b)
+print(b and c)
+print(a or c)
+print(b or c)
+print(c or a)
+print(b or b)
+nome = "Gustavo\n\tAlves\n\tfernandes"
+print(nome[6])
+print(nome [2:4])
+print(nome[-3:-1])
+print(nome[-3:])
+print(len(nome))
+print(nome.replace("G",'😂'))
+print(nome in "alves")
+print(nome.find("gu"))
+print(nome)
+print(nome.strip())
+print(nome.lower())
+print(nome.upper())
